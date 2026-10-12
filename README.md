@@ -1,5 +1,5 @@
 ThinkFan Fedora Installer
-Automaattinen ThinkFan-asennus Fedora Linuxille ThinkPad-kannettivissa.
+Automaattinen ThinkFan-asennus Fedora Linuxille ThinkPad E595.
 
 Skripti:
 
