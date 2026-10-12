@@ -14,7 +14,7 @@ Sisältö
 ├── thinkfan.conf
 └── README.md
 
-git clone https://github.com/KAYTTAJA/thinkfan-fedora.git
+git clone https://github.com/samipekkarinen/thinkfan-fedora.git
 cd thinkfan-fedora
 chmod +x install-thinkfan.sh
 ./install-thinkfan.sh
