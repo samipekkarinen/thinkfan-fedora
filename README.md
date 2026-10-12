@@ -13,3 +13,8 @@ Sisältö
 ├── install-thinkfan.sh
 ├── thinkfan.conf
 └── README.md
+
+git clone https://github.com/KAYTTAJA/thinkfan-fedora.git
+cd thinkfan-fedora
+chmod +x install-thinkfan.sh
+./install-thinkfan.sh
